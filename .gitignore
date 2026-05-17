@@ -1,0 +1,45 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+.qodo/
+
+# Unknown files
+40
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+pip-log.txt
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Environment variables
+.env
+.env.local
+
+# Temp files
+*.tmp
+*.temp
+
+# Interview prep — keep local only
+PROJECT_EXPLAINED.md

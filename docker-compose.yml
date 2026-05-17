@@ -1,0 +1,16 @@
+services:
+  nassau-candy-dashboard:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nassau_candy_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./eda_charts:/app/eda_charts
+      - ./reports:/app/reports
+    environment:
+      PYTHONUNBUFFERED: "1"
+      STREAMLIT_THEME_BASE: light
+    restart: unless-stopped

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.qodo/
+*.pyc
+*.pyo
+.env
+.git/
+.gitignore
+40
