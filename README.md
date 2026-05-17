@@ -119,7 +119,7 @@ NASSU_CANDY/
 ### Option A — Run Locally
 
 ```bash
-git clone https://github.com/yourusername/nassau-candy-analysis.git
+git clone https://github.com/guptahimansh0002/nassau-candy-profitability-dashboard.git
 cd nassau-candy-analysis
 python -m venv venv
 venv\Scripts\activate
@@ -138,8 +138,8 @@ Access: <http://localhost:8501>
 
 ```bash
 # Install Docker Desktop: https://www.docker.com/products/docker-desktop
-git clone https://github.com/yourusername/nassau-candy-analysis.git
-cd nassau-candy-analysis
+git clone https://github.com/guptahimansh0002/nassau-candy-profitability-dashboard.git
+cd nassau-candy-profitability-dashboard
 docker-compose up
 ```
 
