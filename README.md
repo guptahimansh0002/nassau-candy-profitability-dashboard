@@ -159,15 +159,15 @@ Python 3.8+ compatible:
 
 ```text
 fpdf2==2.8.3
-matplotlib==3.7.5
-numpy==1.24.4
+matplotlib>=3.9.0
+numpy>=1.26.4
 openpyxl==3.1.2
-pandas==2.0.3
+pandas>=2.2.2
 Pillow==10.0.1
-plotly==5.18.0
+plotly>=5.22.0
 reportlab==4.1.0
-seaborn==0.13.0
-streamlit==1.28.0
+seaborn>=0.13.2
+streamlit>=1.45.0
 ```
 
 ## 📈 Dashboard Modules
@@ -212,4 +212,4 @@ Python 3.8+ | pandas | numpy | matplotlib | seaborn | streamlit | plotly | repor
 
 ## 👤 Author
 
-**[Himanshu Gupta]** | Unified Mentor Machine Learning Internship | 2026
+**[Himanshu Gupta]** | Unified Mentor Machine  Internship | 2026
