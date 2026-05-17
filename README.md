@@ -212,4 +212,4 @@ Python 3.8+ | pandas | numpy | matplotlib | seaborn | streamlit | plotly | repor
 
 ## 👤 Author
 
-**[Himanshu Gupta]** | Unified Mentor Data Analytics Internship | 2026
+**[Himanshu Gupta]** | Unified Mentor Machine Learning Internship | 2026
