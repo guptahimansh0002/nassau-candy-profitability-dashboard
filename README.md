@@ -120,7 +120,7 @@ NASSU_CANDY/
 
 ```bash
 git clone https://github.com/guptahimansh0002/nassau-candy-profitability-dashboard.git
-cd nassau-candy-analysis
+cd nassau-candy-profitability-dashboard
 python -m venv venv
 venv\Scripts\activate
 python -m pip install --upgrade pip
